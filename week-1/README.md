@@ -17,7 +17,7 @@ After four days of focused, incremental practice, I noticed a real improvement. 
 **Conclusion & Next steps** <br/>
 I will continue this structured practice schedule and document each session in this repository. My short-term goal is to reach reliable 40–50 WPM without looking at the keyboard. Long term, I want touch typing to be an unconscious habit so I can focus on coding and thinking instead of where my fingers are.
 
----
+<br><br>
 
 ## Attachments (Photos)
 To support this week’s documentation, I included several screenshots that illustrate my practice schedule, typing performance, and progress logs.
@@ -41,6 +41,8 @@ To support this week’s documentation, I included several screenshots that illu
 <br><br>
 ![Last Practice Log](images/w1-last-practice-log.png)
 *Figure 5 — **Most recent practice log**. It shows real-time feedback on accuracy, WPM, and finger usage heatmap.*
+
+<br><br>
 
 ## References
 - [keybr.com](https://www.keybr.com)
