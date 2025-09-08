@@ -1,9 +1,12 @@
+  
 # Week 3 — Table, Form, and Frame
 
+## **1. Table**
 ![Screenshot - Table](images/table.png)
 
 ## Source Code
-```
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -44,10 +47,13 @@
 ```
 
 <br><br>
+
+## **2. Form**
 ![Screenshot - Form](images/form.png)
 
 ## Source Code
-```
+
+```html
 <!DOCTYPE html>
 <html>
 
@@ -151,12 +157,14 @@
 </html>
 ```
 
-
 <br><br>
+
+## **3. Frame**
 ![Screenshot - Frame](images/frame.png)
 
 ## Source Code
-```
+
+```html
 <!DOCTYPE html>
 <html>
 
