@@ -1,7 +1,7 @@
   
 # Week 3 — Table, Form, and Frame
 
-## **1. Table**
+## **Table**
 ![Screenshot - Table](images/table.png)
 
 ## Source Code
