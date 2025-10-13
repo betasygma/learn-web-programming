@@ -1,7 +1,3 @@
-Baik, berikut saya buatkan draft **laporan berbahasa Indonesia** untuk project *Landing Page Sewa Mainan Anak Surabaya*. Struktur laporan ini mengikuti gaya template yang kamu berikan, tetapi sudah saya sesuaikan dengan konteks tugasmu. Kamu tinggal melengkapi bagian **link kode** (index.html, pesan.html) dan **link video YouTube** sesuai hasil kerjamu.  
-
----
-
 # 📑 Laporan Project – Evaluasi Tengah Semester Gasal 2025/2026
 **Author:** Bara Semangat Rohmani (NRP 5025241144)  
 
