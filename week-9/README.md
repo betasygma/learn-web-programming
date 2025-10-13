@@ -24,7 +24,7 @@ Landing page ini dirancang dengan struktur yang jelas dan persuasif, meliputi:
 
 👉 Link kode: [index.html](./index.html) dan [pesan.html](./pesan.html)  
 
-👉 Link video presentasi YouTube: [Video Penjelasan Project](#)
+👉 Link video presentasi YouTube: [Video Penjelasan Project](https://youtu.be/vzt_Mm4RbuQ)
 
 ---
 
