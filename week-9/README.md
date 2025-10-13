@@ -16,7 +16,7 @@ Landing page ini dirancang dengan struktur yang jelas dan persuasif, meliputi:
 7. FAQ (*Frequently Asked Questions*)
 8. *Footer*
 
-👉 Website ini diimplementasikan menggunakan **Bootstrap 5** untuk mempermudah styling responsif, serta dipisahkan antara file HTML dan CSS agar lebih terstruktur.  
+👉 Website ini diimplementasikan menggunakan **Bootstrap 5** untuk mempermudah styling responsif.
 
 <br>
 
@@ -69,7 +69,7 @@ Landing page ini dirancang dengan struktur yang jelas dan persuasif, meliputi:
 - Pentingnya **perencanaan konten** sebelum implementasi agar struktur landing page jelas.  
 - Cara menggunakan **Bootstrap grid system** untuk membuat layout responsif dengan cepat.  
 - Teknik menambahkan **background image dengan overlay** agar teks tetap terbaca.  
-- Pentingnya **CTA konsisten** di beberapa section (Hero, dan Promo).  
+- Pentingnya **CTA konsisten** di beberapa section (Hero dan Promo).  
 - Proses **hosting di GitHub Pages** dan troubleshooting jika halaman tidak muncul.  
 
 ---
