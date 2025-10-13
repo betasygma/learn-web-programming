@@ -18,12 +18,15 @@ Landing page ini dirancang dengan struktur yang jelas dan persuasif, meliputi:
 
 👉 Website ini diimplementasikan menggunakan **Bootstrap 5** untuk mempermudah styling responsif, serta dipisahkan antara file HTML dan CSS agar lebih terstruktur.  
 
-👉 Link kode:  
+👉 Link website:
+- [Website Project](https://betasygma.github.io/sewa-mainan-anak-surabaya/)
+
+👉 Link kode:
 - [index.html](./index.html)  
 - [pesan.html](./pesan.html)  
 
-👉 Link video presentasi YouTube:  
-- [Video Penjelasan Project](#)  
+👉 Link video presentasi YouTube:
+- [Video Penjelasan Project](#)
 
 ---
 
