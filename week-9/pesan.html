@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesan Mainan - Sewa Mainan Surabaya</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container py-5">
+        <h1 class="mb-4 text-center">Formulir Pemesanan Mainan</h1>
+        <form>
+            <div class="mb-3">
+                <label class="form-label">Nama Lengkap</label>
+                <input type="text" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Nomor HP/WhatsApp</label>
+                <input type="tel" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Alamat Pengiriman</label>
+                <textarea class="form-control" rows="3" required></textarea>
+            </div>
+            <div class="mb-3">
+                <label for="toy" class="form-label">Pilih Mainan</label>
+                <select class="form-select" id="toy" name="toy" required>
+                    <option value="" disabled selected>Pilih mainan...</option>
+                    <option value="mainan1">Mobil</option>
+                    <option value="mainan2">Lego</option>
+                    <option value="mainan3">Perosotan</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Tanggal Sewa</label>
+                <input type="date" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Tanggal Kembali</label>
+                <input type="date" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Pesan Mainan</button>
+    </div>
+    
+</body>
+</html>
