@@ -53,7 +53,7 @@ This week's assignment focused on building a simple web interface to view studen
 1. Place project files (`fpdf.php`, `connection.php`, `report.php`, `index.php`) into webroot (`htdocs` for XAMPP, `www` for Laragon).
 2. Ensure MySQL and Apache are running.
 3. Create the DB and table using the SQL.
-4. Open http://localhost/<project-folder>/ in browser.
+4. Open `http://localhost/<project-folder>/` in browser.
 
 Click the **Unduh PDF** button to open/download the PDF.
 
